@@ -1,0 +1,26 @@
+
+h1 {
+text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid
+}
+
+th {
+    background-color: #c4bbbb;
+    text-decoration: solid;
+    font-size: larger;
+}
+
+tr:nth-child(even) {
+    background-color: #c4bbbb;
+}
